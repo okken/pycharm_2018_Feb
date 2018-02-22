@@ -14,6 +14,16 @@ It's here: https://github.com/okken/pycharm_2018_Feb
 
 ## why this webinar
 
+Python developers love writing code. Tests? Not so much.
+Whether it’s the concepts of testing, or the interface of testing tools, testing is a chasm not all cross.
+
+This webinar aims to bring Python testing to the masses, taking a new approach to first contact with Python testing:
+
+Visual testing using PyCharm
+Driven by the popular pytest framework
+Real-world scenario during the live building of a simple Python application
+
+
 * pytest is
     * the easiest framework to start using
     * way more powerful than we will cover today
@@ -71,10 +81,12 @@ It's here: https://github.com/okken/pycharm_2018_Feb
     * if not, how about...
 * testing strategies
     * tracer bullet testing
-    * feature coverage
-    * behavior coverage
-    * RCRCRC
     * code coverage and what to do about it
+    * feature coverage
+    * deciding how deep to go with each feature
+    * RCRCRC
+    * behavior coverage
+    *
 
 ## startup
 
